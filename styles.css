@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Times New Roman", sans-serif;
 }
 
 body {
@@ -11,6 +12,7 @@ body {
 h1 {
     text-align: center;
     color: indigo;
+    font-size: 3em;
 }
 
 li {
