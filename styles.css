@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+    color: indigo;
+}
+
+li {
+    list-style: disc;
+}
+
+.foto {
+    text-align: center;
+}
+
+.recipe {
+    margin-left: 1em;
+}
+
+.index {
+    text-align: center;
+}
